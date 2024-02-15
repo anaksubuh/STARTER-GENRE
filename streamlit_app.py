@@ -17,7 +17,6 @@ col1, col2, col3 = st.columns(3)
 with col1:
     pass
 with col2:
-    st.write('')
     st.write('SUKSES MASUK GERBANG GENRE KOTA MAGELANG')
     st.write('')
     st.write('')
