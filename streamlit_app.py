@@ -18,7 +18,7 @@ with col1:
     pass
 with col2:
     st.write('')
-    st.write('')
+    st.write('SUKSES MASUK GERBAG GENRE KOTA MAGELANG')
     st.write('')
     st.write('')
     st.write('')
