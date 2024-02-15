@@ -18,13 +18,13 @@ with col1:
     pass
 with col2:
     st.write('')
-    st.write('SUKSES MASUK GERBAG GENRE KOTA MAGELANG')
+    st.write('SUKSES MASUK GERBANG GENRE KOTA MAGELANG')
     st.write('')
     st.write('')
     st.write('')
     st.write('')
     st.write('')
-    st.link_button("___________ Konsultasi Sekarang ___________", "https://xzld06km-8501.asse.devtunnels.ms/")
+    st.link_button("_________ Konsultasi Sekarang _________", "https://xzld06km-8501.asse.devtunnels.ms/")
     st.write('')
     st.write('')
     st.write('')
