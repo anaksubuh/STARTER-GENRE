@@ -14,4 +14,5 @@ st.set_page_config(
 )
 
 url = 'https://xzld06km-8501.asse.devtunnels.ms/'
-webbrowser.open_new_tab(url)
+if st.button('Open browser'):
+    webbrowser.open_new_tab(url)
