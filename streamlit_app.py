@@ -34,7 +34,6 @@ with col2:
     st.write('')
     st.write('')
     st.write('')
-    st.write('')
     st.write('© COPYRIGHT 2023 - GENERASI BERENCANA.')
     st.write('ALL RIGHTS RESERVED. WEBSITE DESIGN BY.')
     st.link_button('______________ GENRE MGL ______________','https://www.instagram.com/genrekotamagelang/')
