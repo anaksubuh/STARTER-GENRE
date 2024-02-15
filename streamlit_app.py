@@ -17,10 +17,23 @@ col1, col2, col3 = st.columns(3)
 with col1:
     pass
 with col2:
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.link_button("Konsultasi Sekarang", "https://xzld06km-8501.asse.devtunnels.ms/")
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
+    st.write('')
     st.write('© COPYRIGHT 2023 - GENERASI BERENCANA.')
     st.write('ALL RIGHTS RESERVED. WEBSITE DESIGN BY.')
     st.link_button('GENRE MGL','https://www.instagram.com/genrekotamagelang/')
-    st.link_button("Konsultasi Sekarang", "https://xzld06km-8501.asse.devtunnels.ms/")
     pass
 with col3:
     pass
