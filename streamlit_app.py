@@ -24,7 +24,7 @@ with col2:
     st.write('')
     st.write('')
     st.write('')
-    st.link_button("_____ Konsultasi Sekarang _____", "https://xzld06km-8501.asse.devtunnels.ms/")
+    st.link_button("________ Konsultasi Sekarang ________", "https://xzld06km-8501.asse.devtunnels.ms/")
     st.write('')
     st.write('')
     st.write('')
@@ -33,7 +33,7 @@ with col2:
     st.write('')
     st.write('© COPYRIGHT 2023 - GENERASI BERENCANA.')
     st.write('ALL RIGHTS RESERVED. WEBSITE DESIGN BY.')
-    st.link_button('__________ GENRE MGL __________','https://www.instagram.com/genrekotamagelang/')
+    st.link_button('____________ GENRE MGL ____________','https://www.instagram.com/genrekotamagelang/')
     pass
 with col3:
     pass
